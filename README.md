@@ -1,4 +1,6 @@
 extjs-ux
 ========
 
-Plugins for ExtJS 4 &amp; 5
+Plugins for ExtJS 5
+
+Completely Custom Grid Columns
